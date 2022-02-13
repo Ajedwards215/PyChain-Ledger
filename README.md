@@ -1,1 +1,2 @@
 # Blockchain_homework
+When creating the ledger to transfer money between senders and receivers not you are able to change the block difficulty on a sliding scall from 1 to 5. Making it increasing more difficult to hack the system. You can see on the Ledger that a transaction was ran in every difficulty and then verified. The chain was validated and came back true. 
